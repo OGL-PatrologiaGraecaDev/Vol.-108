@@ -1,0 +1,10 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/108/mdp.39015037042556/759.png"; bbox 0 0 2025 3154; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 422 204 1514 2032">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 609 255 1309 532">
+     <span class='ocr_line' id='line_1_1' title="bbox 609 255 1309 303; baseline -0.021 0"><span class='ocrx_word' id='word_1_1' title='bbox 609 269 685 303; x_wconf 88' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 717 263 964 301; x_wconf 88' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 996 261 1051 296; x_wconf 90' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1081 255 1309 292; x_wconf 87' lang='lat' dir='ltr'><strong>MICHIGAN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 875 502 1065 532; baseline -0.021 0"><span class='ocrx_word' id='word_1_5' title='bbox 875 504 968 532; x_wconf 88' lang='lat' dir='ltr'><strong>DATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 995 502 1065 529; x_wconf 87' lang='lat' dir='ltr'><strong>DUE</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
